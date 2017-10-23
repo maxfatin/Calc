@@ -1,0 +1,11 @@
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\bin\v. 1.001\Calculator.exe.config
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\bin\v. 1.001\Calculator.exe
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\bin\v. 1.001\Calculator.pdb
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.Form1.resources
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.Properties.Resources.resources
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.csproj.GenerateResource.Cache
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.exe
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.pdb
+C:\Users\User\Google Диск\source\repos\Calculator\Calculator\obj\v. 1.001\Calculator.Engineer.resources
