@@ -158,7 +158,7 @@ namespace Calculator
         {
             txtInput.Clear();
             textBox1.Clear();
-            //txtInput.Text = "0";
+            txtInput.Text = "0";
             //value = Double.Parse(textBox1.Text);
             label1.Focus();
         }
